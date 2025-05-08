@@ -33,7 +33,7 @@ Before running the script, you must enter your Ekara identifier (Account / Passw
 
 ## Download
 
-[github-download]: https://github.com/MrGuyTwo/Ekara-Console_Custom
+[github-download]: https://github.com/MrGuyTwo/Ekara-Console_Custom/tree/main/releases
  - [`Ekara-Console_Custom`][github-download]
 
 ## The main function
