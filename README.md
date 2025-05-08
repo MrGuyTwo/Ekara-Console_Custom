@@ -5,7 +5,7 @@
 <a href="https://api.ekara.ip-label.net/"><img src="screenshot/cropped-ekara_by_ip-label_full_2.webp"> 
 
 ## Description
-This [Powershell](https://learn.microsoft.com/powershell/scripting/overview) script lists all Ekara scenarios and displays their statuses in a dynamic web page.
+This [Powershell](https://learn.microsoft.com/powershell/scripting/overview) script lists all Ekara scenarios and displays their statuses in a dynamic HTML page.
 
 For this, the script uses the Rest Ekara API [Ekara](https://ekara.ip-label.net/)
 
@@ -33,8 +33,8 @@ Before running the script, you must enter your Ekara identifier (Account / Passw
 
 ## Download
 
-[github-download]: https://github.com/MrGuyTwo/Ekara-Console/releases
- - [`Ekara-Console`][github-download]
+[github-download]: https://github.com/MrGuyTwo/Ekara-Console_Custom
+ - [`Ekara-Console_Custom`][github-download]
 
 ## The main function
 API Methods called : 
