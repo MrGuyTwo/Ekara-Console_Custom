@@ -1,0 +1,48 @@
+
+.carousel-container {
+  width: 70%;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: transparent;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 10px;
+  transition: transform 1s linear;
+}
+
+.carousel-item {
+  /*background-color: #ccc;*/
+  background-color: transparent;
+  width: auto;
+  height: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.carousel-item img {
+  vertical-align: middle;
+  margin-right: 5px;
+  width:24px;
+  height:24px;
+}
+
+.carousel-item span {
+  Font-Family: Tahoma;
+  Font-Size: 12pt;
+  Color: #1F497D;
+  vertical-align: middle;
+}
+
+.carousel-item p {
+  font-size: 10px;
+  Color: #000000;
+  text-align: center;
+}
