@@ -48,6 +48,7 @@ The second carousel contains functional scenarios.
 (Scenarios that have been stopped or are undergoing maintenance are not displayed.)
 
 In the PowerShell script, you can customize the following settings:
+- Ekara Username/Password or APIKey
 - Authentication method (1 = Without asking for an account and password / 2 = Requests the entry of an account and a password / 3 = With API-KEY)
 - RefreshPage (HTML page refresh time)
 - IntervalInventory (Delay between each REST API request)
@@ -56,4 +57,13 @@ In the PowerShell script, you can customize the following settings:
 - HTMLLogo (Customer logo)
 
 The script generates a Windows alert for failed or degraded scenarios.
+
+## Installation
+
+On the PC where the console will be displayed:
+- Unzip the package to a folder on the local disk.
+- Run PowerShell scrip "CONSOLE_EKARA.ps1"
+
+## Tip
+If you install the "auto TAB Switcher" extension on the Chrome browser, you can automatically switch between tabs.
 
