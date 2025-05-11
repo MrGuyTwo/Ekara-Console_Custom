@@ -61,7 +61,7 @@ The script generates a Windows alert for failed or degraded scenarios.
 ## Installation
 
 On the PC where the console will be displayed:
-- Unzip the package to a folder on the local disk.
+- Unzip the package to a folder on the local disk (Ex: c:\Ekara-Console_Custom).
 - Run PowerShell scrip "CONSOLE_EKARA.ps1"
 
 ## Tip
