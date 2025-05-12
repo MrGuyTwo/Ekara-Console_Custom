@@ -30,6 +30,8 @@ PowerShell|>=5
 (Account and password Ekara or APIKey)
 
 Before running the script, you must enter your Ekara identifier (Account / Password or APIKey).
+PowerShell Policy must configured with "Unrestricted" level (Set-ExecutionPolicy -ExecutionPolicy Unrestricted)
+
 
 ## Download
 
